@@ -11,7 +11,7 @@ static const Block blocks[] = {
 //	{"", "sb-nightlight", 1, 11},
 //	{"", "sb-torrent", 5, 7},
 	{"", "sb-bluetooth", 5, 30},
-//	{"", "sb-battery", 5, 3},
+	{"", "sb-battery", 5, 5},
 //	{"", "sb-adguard", 1, 29},
 //	{"", "sb-vpn", 1, 20},
 	{"", "sb-clock", 1, 1},
