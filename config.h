@@ -8,7 +8,7 @@ static const Block blocks[] = {
 //	{"", "sb-weather", 360, 12},
 	{"", "sb-pacpackages", 360, 8},
 	{"", "sb-volume", 0, 10},
-	{"", "sb-timer", 0, 3},
+//	{"", "sb-timer", 0, 3},
 //	{"", "sb-nightlight", 1, 11},
 //	{"", "sb-torrent", 5, 7},
 	{"", "sb-bluetooth", 5, 30},
